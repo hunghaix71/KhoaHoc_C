@@ -10,8 +10,8 @@ namespace Buoi5_C
             //Phan5_1();
             //Phan5_2();
             //Phan5_3();
-            //BaiTapBuoi5_1();
-            BaiTapBuoi5_2();
+            BaiTapBuoi5_1();
+            //BaiTapBuoi5_2();
         }
         static void Phan5_1()
         {
