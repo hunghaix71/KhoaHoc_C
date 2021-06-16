@@ -100,8 +100,8 @@ namespace Buoi5_C
                 string _HoTen = Console.ReadLine();
                 Console.WriteLine("Xin chao " + _HoTen);
                 Console.Write("Ban muon tiep tuc hay k (Y/N): ");
-                _KiemTra = Console.ReadLine().ToUpper();
-               
+
+                _KiemTra = Console.ReadLine().ToUpper();             
                 i++;
             }
             Console.WriteLine("Ban da dung");
