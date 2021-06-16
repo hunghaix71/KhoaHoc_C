@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\tuanh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\13.DaoTaoLapTrinh-SPEC\\C#\\T5-21\\KhoaHoc_C\\Buoi5_C\\Buoi5_C.csproj",
+      "projectUniqueName": "D:\\T5_21_C#\\Code Thầy\\KhoaHoc_C\\Buoi5_C\\Buoi5_C.csproj",
       "projectName": "Buoi5_C",
-      "projectPath": "D:\\13.DaoTaoLapTrinh-SPEC\\C#\\T5-21\\KhoaHoc_C\\Buoi5_C\\Buoi5_C.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\13.DaoTaoLapTrinh-SPEC\\C#\\T5-21\\KhoaHoc_C\\Buoi5_C\\obj\\",
+      "projectPath": "D:\\T5_21_C#\\Code Thầy\\KhoaHoc_C\\Buoi5_C\\Buoi5_C.csproj",
+      "packagesPath": "C:\\Users\\tuanh\\.nuget\\packages\\",
+      "outputPath": "D:\\T5_21_C#\\Code Thầy\\KhoaHoc_C\\Buoi5_C\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tuanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
