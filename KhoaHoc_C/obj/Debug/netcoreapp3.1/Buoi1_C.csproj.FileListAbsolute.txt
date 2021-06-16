@@ -10,3 +10,16 @@ D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\KhoaHoc_C\obj\Debug\netcoreapp3.1\B
 D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\KhoaHoc_C\obj\Debug\netcoreapp3.1\Buoi1_C.dll
 D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\KhoaHoc_C\obj\Debug\netcoreapp3.1\Buoi1_C.pdb
 D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\KhoaHoc_C\obj\Debug\netcoreapp3.1\Buoi1_C.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\KhoaHoc_C\KhoaHoc_C\bin\Debug\netcoreapp3.1\Buoi1_C.exe
+C:\Users\Admin\Documents\GitHub\KhoaHoc_C\KhoaHoc_C\bin\Debug\netcoreapp3.1\Buoi1_C.deps.json
+C:\Users\Admin\Documents\GitHub\KhoaHoc_C\KhoaHoc_C\bin\Debug\netcoreapp3.1\Buoi1_C.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\KhoaHoc_C\KhoaHoc_C\bin\Debug\netcoreapp3.1\Buoi1_C.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\KhoaHoc_C\KhoaHoc_C\bin\Debug\netcoreapp3.1\Buoi1_C.dll
+C:\Users\Admin\Documents\GitHub\KhoaHoc_C\KhoaHoc_C\bin\Debug\netcoreapp3.1\Buoi1_C.pdb
+C:\Users\Admin\Documents\GitHub\KhoaHoc_C\KhoaHoc_C\obj\Debug\netcoreapp3.1\Buoi1_C.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\KhoaHoc_C\KhoaHoc_C\obj\Debug\netcoreapp3.1\Buoi1_C.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\KhoaHoc_C\KhoaHoc_C\obj\Debug\netcoreapp3.1\Buoi1_C.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\KhoaHoc_C\KhoaHoc_C\obj\Debug\netcoreapp3.1\Buoi1_C.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\KhoaHoc_C\KhoaHoc_C\obj\Debug\netcoreapp3.1\Buoi1_C.dll
+C:\Users\Admin\Documents\GitHub\KhoaHoc_C\KhoaHoc_C\obj\Debug\netcoreapp3.1\Buoi1_C.pdb
+C:\Users\Admin\Documents\GitHub\KhoaHoc_C\KhoaHoc_C\obj\Debug\netcoreapp3.1\Buoi1_C.genruntimeconfig.cache
