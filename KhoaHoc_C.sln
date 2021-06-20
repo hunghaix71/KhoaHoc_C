@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buoi5_C", "Buoi5_C\Buoi5_C.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buoi6_C", "Buoi6_C\Buoi6_C.csproj", "{3382150C-D82B-4176-9287-10CC85A033F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi7_C", "Buoi7_C\Buoi7_C.csproj", "{0B699CE3-70B1-45AC-AA7B-B4B974D12030}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buoi7_C", "Buoi7_C\Buoi7_C.csproj", "{0B699CE3-70B1-45AC-AA7B-B4B974D12030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi_ChuaBai", "Buoi_ChuaBai\Buoi_ChuaBai.csproj", "{7BB4203B-6347-4618-95C9-B67978A0F0A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0B699CE3-70B1-45AC-AA7B-B4B974D12030}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B699CE3-70B1-45AC-AA7B-B4B974D12030}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B699CE3-70B1-45AC-AA7B-B4B974D12030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB4203B-6347-4618-95C9-B67978A0F0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB4203B-6347-4618-95C9-B67978A0F0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB4203B-6347-4618-95C9-B67978A0F0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB4203B-6347-4618-95C9-B67978A0F0A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

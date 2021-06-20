@@ -1,0 +1,16 @@
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\bin\Debug\net5.0\Buoi_ChuaBai.exe
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\bin\Debug\net5.0\Buoi_ChuaBai.deps.json
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\bin\Debug\net5.0\Buoi_ChuaBai.runtimeconfig.json
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\bin\Debug\net5.0\Buoi_ChuaBai.runtimeconfig.dev.json
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\bin\Debug\net5.0\Buoi_ChuaBai.dll
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\bin\Debug\net5.0\ref\Buoi_ChuaBai.dll
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\bin\Debug\net5.0\Buoi_ChuaBai.pdb
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\net5.0\Buoi_ChuaBai.csprojAssemblyReference.cache
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\net5.0\Buoi_ChuaBai.GeneratedMSBuildEditorConfig.editorconfig
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\net5.0\Buoi_ChuaBai.AssemblyInfoInputs.cache
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\net5.0\Buoi_ChuaBai.AssemblyInfo.cs
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\net5.0\Buoi_ChuaBai.csproj.CoreCompileInputs.cache
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\net5.0\Buoi_ChuaBai.dll
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\net5.0\ref\Buoi_ChuaBai.dll
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\net5.0\Buoi_ChuaBai.pdb
+D:\13.DaoTaoLapTrinh-SPEC\C#\T5-21\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\net5.0\Buoi_ChuaBai.genruntimeconfig.cache
